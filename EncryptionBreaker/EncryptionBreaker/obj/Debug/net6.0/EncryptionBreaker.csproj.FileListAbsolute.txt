@@ -1,0 +1,15 @@
+C:\Users\premd\OneDrive\Desktop\DotNet Projects\EncryptionBreaker\EncryptionBreaker\EncryptionBreaker\bin\Debug\net6.0\EncryptionBreaker.exe
+C:\Users\premd\OneDrive\Desktop\DotNet Projects\EncryptionBreaker\EncryptionBreaker\EncryptionBreaker\bin\Debug\net6.0\EncryptionBreaker.deps.json
+C:\Users\premd\OneDrive\Desktop\DotNet Projects\EncryptionBreaker\EncryptionBreaker\EncryptionBreaker\bin\Debug\net6.0\EncryptionBreaker.runtimeconfig.json
+C:\Users\premd\OneDrive\Desktop\DotNet Projects\EncryptionBreaker\EncryptionBreaker\EncryptionBreaker\bin\Debug\net6.0\EncryptionBreaker.dll
+C:\Users\premd\OneDrive\Desktop\DotNet Projects\EncryptionBreaker\EncryptionBreaker\EncryptionBreaker\bin\Debug\net6.0\EncryptionBreaker.pdb
+C:\Users\premd\OneDrive\Desktop\DotNet Projects\EncryptionBreaker\EncryptionBreaker\EncryptionBreaker\obj\Debug\net6.0\EncryptionBreaker.csproj.AssemblyReference.cache
+C:\Users\premd\OneDrive\Desktop\DotNet Projects\EncryptionBreaker\EncryptionBreaker\EncryptionBreaker\obj\Debug\net6.0\EncryptionBreaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\premd\OneDrive\Desktop\DotNet Projects\EncryptionBreaker\EncryptionBreaker\EncryptionBreaker\obj\Debug\net6.0\EncryptionBreaker.AssemblyInfoInputs.cache
+C:\Users\premd\OneDrive\Desktop\DotNet Projects\EncryptionBreaker\EncryptionBreaker\EncryptionBreaker\obj\Debug\net6.0\EncryptionBreaker.AssemblyInfo.cs
+C:\Users\premd\OneDrive\Desktop\DotNet Projects\EncryptionBreaker\EncryptionBreaker\EncryptionBreaker\obj\Debug\net6.0\EncryptionBreaker.csproj.CoreCompileInputs.cache
+C:\Users\premd\OneDrive\Desktop\DotNet Projects\EncryptionBreaker\EncryptionBreaker\EncryptionBreaker\obj\Debug\net6.0\EncryptionBreaker.dll
+C:\Users\premd\OneDrive\Desktop\DotNet Projects\EncryptionBreaker\EncryptionBreaker\EncryptionBreaker\obj\Debug\net6.0\refint\EncryptionBreaker.dll
+C:\Users\premd\OneDrive\Desktop\DotNet Projects\EncryptionBreaker\EncryptionBreaker\EncryptionBreaker\obj\Debug\net6.0\EncryptionBreaker.pdb
+C:\Users\premd\OneDrive\Desktop\DotNet Projects\EncryptionBreaker\EncryptionBreaker\EncryptionBreaker\obj\Debug\net6.0\EncryptionBreaker.genruntimeconfig.cache
+C:\Users\premd\OneDrive\Desktop\DotNet Projects\EncryptionBreaker\EncryptionBreaker\EncryptionBreaker\obj\Debug\net6.0\ref\EncryptionBreaker.dll
